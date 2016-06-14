@@ -19,7 +19,7 @@ Based on Read Receiver from Lex Talionis (Lex.V.Talionis at gmail) http://playgr
 
 */
 
-#include <PinChangeInterrupt.h>
+#include <PinChangeInterrupt.h> // https://github.com/NicoHood/PinChangeInterrupt
 #include <TimerOne.h>        // http://playground.arduino.cc/Code/Timer1
 
 #define PIN_COUNT 2    //number of channels attached to the receiver
